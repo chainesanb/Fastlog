@@ -1,6 +1,6 @@
 # Fastlogistics
 
-## Core Skills
+## Roadmap
 
 1. Deep Learning
 	- [Introduction to Deep Learning](https://docs.google.com/presentation/d/12raBE8-ZFjHn8MJUeWAJVpp_I7UqZpuAo8rlEpVo8-M/edit#slide=id.p)
