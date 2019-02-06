@@ -3,7 +3,7 @@
 ## Core Skills
 
 1. Deep Learning
-	- [Introduction to Deep Learning](https://www.youtube.com/watch?v=ax8LxRZCORU)
+	- [Introduction to Deep Learning](https://docs.google.com/presentation/d/12raBE8-ZFjHn8MJUeWAJVpp_I7UqZpuAo8rlEpVo8-M/edit#slide=id.p)
 	- [Lecture Notes](https://github.com/roatienza/Deep-Learning-Experiments)
 	- [Deep Learning Book](https://deeplearningbook.org)
 2. Tensorflow
