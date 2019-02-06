@@ -1,5 +1,4 @@
 # Fastlogistics
-by Chaine
 
 ## DSA Roadmap
 
