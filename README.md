@@ -11,7 +11,7 @@
 	- [Lecture Notes](https://github.com/roatienza/Deep-Learning-Experiments)
 	- [Deep Learning Book](https://deeplearningbook.org)
 2. Tensorflow
-	- [Tensorflow Basics](http://localhost:8888/tree/Documents/Tensorflow-Tutorial-Chaine)
+	- [Tensorflow Basics](http://10.10.22.32/charlene/Fastlog-DSA/tree/master/Tensorflow-Tutorial-Chaine)
 3. Object Detection
 	- [Introduction](http://localhost:8888/notebooks/Documents/tensorflow_fastlog/models/research/object_detection/DS%20Technical%20Session.ipynb)
 	- [Object Detection Algorithms](https://www.youtube.com/watch?v=1i0zu9jHN6U)
