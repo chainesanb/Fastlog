@@ -14,7 +14,7 @@
 	- [Tensorflow Basics](http://localhost:8888/tree/Documents/Tensorflow-Tutorial-Chaine)
 3. Object Detection
 	- [Introduction](http://localhost:8888/notebooks/Documents/tensorflow_fastlog/models/research/object_detection/DS%20Technical%20Session.ipynb)
-	- [Object Detection Algorithims](https://www.youtube.com/watch?v=1i0zu9jHN6U)
+	- [Object Detection Algorithms](https://www.youtube.com/watch?v=1i0zu9jHN6U)
 4. Tensorflow Object Detection API
 	- [Installation](http://10.10.22.32/charlene/Fastlog-DSA/blob/master/Intalling%20Tensorflow%20Object%20Detection%20API.ipynb)
 	
