@@ -22,6 +22,10 @@
 
 1. [Minutes of the Meeting](https://docs.google.com/document/d/1ZDz_Yo8ujNN-4ZWH_lwo_RqEaCGrwqySrV0H7Jdn23Q/edit?usp=sharing)
 2. [Fastlogistics Overview]
-3. [DS Google Drive]
-4. [DS Evernote]
+3. [DS Google Drive](https://drive.google.com/drive/)
+	username: dsbag2018@gmail.com
+	password: bagds2018
+4. [DS Evernote](https://www.evernote.com)
+	username: dsbag2018@gmail.com
+	password: bagds2018
   
